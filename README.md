@@ -138,8 +138,3 @@ terraform destroy
 
 ---
 
-## 📸 Demonstração
-
-_Aqui você pode adicionar prints do diagrama ou do site em funcionamento acessado pelo ALB._
-
----
